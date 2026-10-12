@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+Backend/uploads/
+Backend/outputs/
+
+# Editor / OS
+.vscode/
+.DS_Store
